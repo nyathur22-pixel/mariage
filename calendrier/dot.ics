@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Flore et Arthur//Mariage//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dot@floreetarthur2027.com
+DTSTAMP:20261122T080000Z
+DTSTART:20270115T170000Z
+DTEND:20270115T220000Z
+SUMMARY:La Dot – Flore & Arthur
+LOCATION:Bangoua\, Cameroun
+DESCRIPTION:Tenue traditionnelle aux couleurs du mariage. Munissez-vous de votre invitation. Localisation : https://maps.google.com/?q=5.210859\,10.457394
+GEO:5.210859;10.457394
+URL:https://maps.google.com/?q=5.210859,10.457394
+END:VEVENT
+END:VCALENDAR

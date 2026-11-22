@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Flore et Arthur//Mariage//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:gala@floreetarthur2027.com
+DTSTAMP:20261122T080000Z
+DTSTART:20270116T190000Z
+DTEND:20270117T020000Z
+SUMMARY:Soirée de gala – Flore & Arthur
+LOCATION:Tagidor\, Bangou\, Cameroun
+DESCRIPTION:Dress to impress · thème tapis rouge · Met Gala. Soirée réservée aux adultes. Invitation obligatoire.
+END:VEVENT
+END:VCALENDAR
